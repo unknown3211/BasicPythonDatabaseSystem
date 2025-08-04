@@ -1,0 +1,6 @@
+{
+    "status" : {
+        "success": "Connected to the database =)",
+        "error": "Error connecting to the database =("
+    }
+}
