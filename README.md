@@ -1,2 +1,3 @@
 # BasicPythonDatabaseSystem
-Made A Basic MYSQL Database System To Get A Refreshser With Python
+
+Just A Basic Python MYSQL Database System
